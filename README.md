@@ -9,4 +9,4 @@
    <br>
 <br><b> 2.intial page 
    <br>
-    <img src="assets/2.jpg">
+    <img src="assets/2.png">
