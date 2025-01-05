@@ -1,7 +1,7 @@
 
 # NLPhackthon
 
-<h2>for run this code: bash- streamlit run app.py</h2>
+<h2>for run this code(In bash): streamlit run app.py</h2>
 <br><b>1. Home Page 
    <br>
    <img src="assets/1.jpg">
